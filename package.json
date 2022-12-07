@@ -767,7 +767,7 @@
     "pumpify": "^1.5.1",
     "punycode": "^2.1.1",
     "q": "^1.5.1",
-    "qs": "^6.9.6",
+    "qs": "^6.9.7",
     "querystring": "^0.2.0",
     "querystring-es3": "^0.2.1",
     "querystringify": "^2.2.0",
