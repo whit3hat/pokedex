@@ -292,7 +292,7 @@
     "expand-brackets": "^2.1.4",
     "expand-range": "^1.8.2",
     "expect": "^23.6.0",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "extend": "^3.0.2",
     "extend-shallow": "^2.0.1",
     "external-editor": "^3.1.0",
